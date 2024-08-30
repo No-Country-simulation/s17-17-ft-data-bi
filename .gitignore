@@ -166,3 +166,4 @@ mlflow-env/
 .db
 
 *.xlsx
+data/

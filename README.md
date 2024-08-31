@@ -30,6 +30,11 @@ src/
 
 Esta estructura permitirá mantener un orden y organización adecuados en el proyecto, facilitando el desarrollo, mantenimiento y colaboración con otros miembros del equipo.
 
+# reproducir el proyecto
+clona el proyecto y para generar un ambiente de desarrollo similar usa el siguiente comando:
+```batch
+pipenv install --ignore-pipfile
+```
 
 # Referencias
 Chen, Daqing (2019).Online Retail II. UCI Machine Learning Repository. [doi.org/10.24432/C5CG6D](https://doi.org/10.24432/C5CG6D).

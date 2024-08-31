@@ -22,6 +22,7 @@ src/
 ├── pipelines/
 ```
 
+
 - `data` contendrá los datos utilizados en el proyecto, divididos en subcarpetas `raw` y `processed` para almacenar los datos originales y los datos procesados.
 - `models` contendrá los modelos de predicción desarrollados iniciales.
 - `notebooks` contendrá los notebooks de Jupyter utilizados para el análisis y desarrollo del proyecto.

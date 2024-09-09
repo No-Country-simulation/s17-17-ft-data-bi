@@ -8,7 +8,7 @@ Utilizando la base de datos de Chen y Daqing (2019), se desarrollará un aplicat
 
 ### Enlace a presentación en Power BI
 
-[Enlace a Tableau - Vehicle Insurance Claim](https://public.tableau.com/app/profile/juan.felipe116/viz/ProjectVehicleInsuraceClaimNoCountry/Story1?publish=yes)
+[Enlace a Power Bi - ](https://public.tableau.com/app/profile/juan.felipe116/viz/ProjectVehicleInsuraceClaimNoCountry/Story1?publish=yes)
 
 ### Definición del Problema de Negocio
 
@@ -21,12 +21,28 @@ Desarrollar y evaluar un sistema de predicción de ventas basado en datos histó
 Identificar y predecir las ventas futuras de productos específicos para el año 2012, utilizando datos históricos de ventas. Este sistema ayudará a mejorar la eficiencia operativa del cliente, proporcionando información precisa sobre la demanda futura.
 
 ### Habilidades y Herramientas Necesarias
-- **Lenguajes de Programación:** Python para el análisis y desarrollo de modelos.
-- **Bibliotecas:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn para la manipulación de datos y visualización.
-- **Versionamiento de Modelos:** Prefect y MLflow.
-- **Bases de Datos:** SQL.
-- **Estadísticas:** Conocimientos básicos de estadística y machine learning.
-- **Herramientas de Visualización:** Tableau, Power BI para crear visualizaciones ejecutivas.
+- 💻 **Lenguajes de Programación:**
+  - 🐍 Python: Para el análisis y desarrollo de modelos.
+  
+- 📚 **Bibliotecas:**
+  - 📊 Pandas: Para la manipulación y análisis de datos estructurados.
+  - 🔢 NumPy: Para el manejo de arreglos numéricos y operaciones matemáticas.
+  - 🤖 Scikit-Learn: Para la implementación de algoritmos de machine learning.
+  - 📈 Matplotlib y Seaborn: Para la visualización de datos y generación de gráficos.
+
+- 🔄 **Versionamiento de Modelos:**
+  - ⚙️ Prefect: Para la orquestación de flujos de trabajo y control de tareas.
+  - 🗂️ MLflow: Para el versionamiento y gestión del ciclo de vida de los modelos.
+
+- 🗄️ **Bases de Datos:**
+  - 📝 SQL: Para la consulta y manipulación de datos almacenados en bases de datos relacionales.
+
+- 📐 **Estadísticas:**
+  - 📊 Fundamentos de estadística y machine learning: Para el análisis e interpretación de los datos y modelos predictivos.
+
+- 📊 **Herramientas de Visualización:**
+  - 📊 Power BI: Para la creación de informes visuales ejecutivos y presentaciones de datos.
+
 
 ### Entregables del Proyecto
 1. ✅ Informes de Análisis Exploratorio de Datos (EDA).
@@ -61,23 +77,29 @@ El modelo se entrenará usando técnicas de machine learning como Random Forest 
 ## Requerimientos Funcionales
 
 ### Funciones Específicas para el Analista de Datos
-1. **Ingesta y Preprocesamiento de Datos:**
-   - Cargar y limpiar el conjunto de datos.
-   - Manejar valores faltantes y eliminar datos duplicados.
-2. **Análisis Exploratorio de Datos (EDA):**
-   - Crear visualizaciones para identificar patrones de ventas.
-   - Calcular estadísticas descriptivas.
-3. **Modelado y Entrenamiento:**
-   - Seleccionar las características más relevantes para el modelo.
-   - Entrenar y validar modelos de machine learning.
-4. **Evaluación del Modelo:**
-   - Utilizar métricas como precisión, recall, y AUC-ROC.
-   - Generar matrices de confusión para medir el rendimiento.
-5. **Interpretabilidad:**
-   - Implementar SHAP Values para interpretar la importancia de las características.
-6. **Documentación:**
-   - Mantener una documentación clara y completa.
-   - Presentar informes ejecutivos con visualizaciones de resultados.
+1. 🛠️ **Ingesta y Preprocesamiento de Datos:**
+   - 📥 Cargar y limpiar el conjunto de datos.
+   - 🧹 Manejar valores faltantes y eliminar datos duplicados.
+
+2. 🔍 **Análisis Exploratorio de Datos (EDA):**
+   - 📊 Crear visualizaciones para identificar patrones de ventas.
+   - 🧮 Calcular estadísticas descriptivas.
+
+3. 🤖 **Modelado y Entrenamiento:**
+   - 🎯 Seleccionar las características más relevantes para el modelo.
+   - 🏋️ Entrenar y validar modelos de machine learning.
+
+4. 📊 **Evaluación del Modelo:**
+   - 📏 Utilizar métricas como precisión, recall, y AUC-ROC.
+   - 🔄 Generar matrices de confusión para medir el rendimiento.
+
+5. 🔍 **Interpretabilidad:**
+   - 🧠 Implementar SHAP Values para interpretar la importancia de las características.
+
+6. 📄 **Documentación:**
+   - 📝 Mantener una documentación clara y completa.
+   - 💼 Presentar informes ejecutivos con visualizaciones de resultados.
+
 
 ## Estructura del Proyecto
 

@@ -4,8 +4,6 @@
 
 Utilizando la base de datos de Chen y Daqing (2019), se desarrollará un aplicativo de predicción de ventas para el siguiente año (2012), utilizando datos de los dos años anteriores para productos pronosticables. Este análisis se presenta como una propuesta de valor para un cliente del sector retail, y se implementará **Prefect** junto con **MLflow** para el control y versionamiento de los modelos utilizados.
 
-## Proyecto: Vehicle Insurance Claim
-
 ### Enlace a presentación en Power BI
 
 [Enlace a Power Bi - ](https://public.tableau.com/app/profile/juan.felipe116/viz/ProjectVehicleInsuraceClaimNoCountry/Story1?publish=yes)

@@ -6,6 +6,8 @@ Utilizando la base de datos de Chen y Daqing (2019), se desarrollará un aplicat
 
 ----------------------------------------------------------------------------------------
 
+## Integrantes 
+
 | Nombre     | Enlace (Link)                    | Rol                 |
 |------------|----------------------------------|---------------------|
 | Angel      | [GitHub](#) / [LinkedIn](#)      | Data Engineer       |
@@ -132,7 +134,7 @@ src/
 
 Esta estructura permitirá mantener un orden y organización adecuados en el proyecto, facilitando el desarrollo, mantenimiento y colaboración con otros miembros del equipo.
 
-# reproducir el proyecto
+# Reproducir el proyecto
 clona el proyecto y para generar un ambiente de desarrollo similar usa el siguiente comando:
 ```batch
 pipenv install --ignore-pipfile

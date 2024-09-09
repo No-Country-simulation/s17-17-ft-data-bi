@@ -4,6 +4,16 @@
 
 Utilizando la base de datos de Chen y Daqing (2019), se desarrollará un aplicativo de predicción de ventas para el siguiente año (2012), utilizando datos de los dos años anteriores para productos pronosticables. Este análisis se presenta como una propuesta de valor para un cliente del sector retail, y se implementará **Prefect** junto con **MLflow** para el control y versionamiento de los modelos utilizados.
 
+----------------------------------------------------------------------------------------
+
+| Nombre     | Enlace (Link)                    | Rol                 |
+|------------|----------------------------------|---------------------|
+| Angel      | [GitHub](#) / [LinkedIn](#)      | Data Engineer       |
+| Carolina   | [GitHub](#) / [LinkedIn](#)      | Machine Learning    |
+| Fabricio   | [GitHub](#) / [LinkedIn](#)      | Data Engineer       |
+| Fabrizio   | [GitHub](#) / [LinkedIn](#)      | Analista de Datos   |
+| Fernando   | [GitHub](#) / [LinkedIn](#)      | Team Leader         |
+
 ### Enlace a presentación en Power BI
 
 [Enlace a Power Bi - ](https://public.tableau.com/app/profile/juan.felipe116/viz/ProjectVehicleInsuraceClaimNoCountry/Story1?publish=yes)

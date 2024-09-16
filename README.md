@@ -8,17 +8,16 @@ Utilizando la base de datos de Chen y Daqing (2019), se desarrollará un aplicat
 
 ## Integrantes 
 
-| Nombre     | Enlace (Link)                    | Rol                 |
-|------------|----------------------------------|---------------------|
-| Angel      | [GitHub](#) / [LinkedIn](#)      | Data Engineer       |
-| Carolina   | [GitHub](#) / [LinkedIn](#)      | Machine Learning    |
-| Fabricio   | [GitHub](#) / [LinkedIn](#)      | Data Engineer       |
-| Fabrizio   | [GitHub](#) / [LinkedIn](#)      | Analista de Datos   |
-| Fernando   | [GitHub](#) / [LinkedIn](#)      | Team Leader         |
+| Nombre                    | Enlace (Link)                    | Rol                 |
+|------------               |----------------------------------|---------------------|
+| Javier Edgar Esteban      | [https://github.com/JavierEdgarEsteban77](#) / [https://www.linkedin.com/in/jesteban77/](#)      | Data Analyst & BI   |
+| Lucel Da Silva            | [https://github.com/luceldasilva](#) / [https://www.linkedin.com/in/luceldasilva/](#)      | Data Scientist              |
+| Juan Arango               | [https://github.com/Vagarh](#) / [https://www.linkedin.com/in/juan-felipe-c-8a010b121/](#)      | Machine Learnin       |
+| Anderson Cusma            | [https://github.com/anderson2093](#) / [https://www.linkedin.com/in/anderson-cusma-vasquez/](#)      | Team Leader         |
 
 ### Enlace a presentación en Power BI
 
-[Enlace a Power Bi - ](https://public.tableau.com/app/profile/juan.felipe116/viz/ProjectVehicleInsuraceClaimNoCountry/Story1?publish=yes)
+[Enlace a Power Bi - ](<iframe title="Online retail" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMmUzODUzYTQtMmUzMC00YWZlLTkwMjktZmE4OGY1NmMwYWIzIiwidCI6IjNiNjUzZDBiLWIzYjgtNGE0Yy05YzJlLTVkNDAzNjNkNWI0MSIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>)
 
 ### Definición del Problema de Negocio
 

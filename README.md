@@ -10,10 +10,10 @@ Utilizando la base de datos de Chen y Daqing (2019), se desarrollará un aplicat
 
 | Nombre                    | Enlace (Link)                    | Rol                 |
 |------------               |----------------------------------|---------------------|
-| Javier Edgar Esteban      | [Github](https://github.com/JavierEdgarEsteban77) / [Linkedin](https://www.linkedin.com/in/jesteban77/)      | Data Analyst & BI   |
-| Lucel Da Silva            | [Github](https://github.com/luceldasilva)(#) / [Linkedin](https://www.linkedin.com/in/luceldasilva/)(#)      | Data Scientist              |
-| Juan Arango               | [Github](https://github.com/Vagarh)(#) / [Linkedin](https://www.linkedin.com/in/juan-felipe-c-8a010b121/)(#)      | Machine Learnin       |
-| Anderson Cusma            | [Github](https://github.com/anderson2093)(#) / [Linkedin](https://www.linkedin.com/in/anderson-cusma-vasquez/)(#)      | Team Leader         |
+| Javier Edgar Esteban      | [Github](https://github.com/JavierEdgarEsteban77) | [Linkedin](https://www.linkedin.com/in/jesteban77/)      | Data Analyst & BI   |
+| Lucel Da Silva            | [Github](https://github.com/luceldasilva) | [Linkedin](https://www.linkedin.com/in/luceldasilva/)      | Data Scientist              |
+| Juan Arango               | [Github](https://github.com/Vagarh) | [Linkedin](https://www.linkedin.com/in/juan-felipe-c-8a010b121/)      | Machine Learnin       |
+| Anderson Cusma            | [Github](https://github.com/anderson2093) | [Linkedin](https://www.linkedin.com/in/anderson-cusma-vasquez/)      | Team Leader         |
 
 ### Enlace a presentación en Power BI
 

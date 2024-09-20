@@ -12,12 +12,13 @@ Utilizando la base de datos de Chen y Daqing (2019), se desarrollará un aplicat
 |------------               |----------------------------------|---------------------|
 | Javier Edgar Esteban      | [Github](https://github.com/JavierEdgarEsteban77) / [Linkedin](https://www.linkedin.com/in/jesteban77/)      | Data Analyst & BI   |
 | Lucel Da Silva            | [Github](https://github.com/luceldasilva) / [Linkedin](https://www.linkedin.com/in/luceldasilva/)      | Data Scientist              |
-| Juan Arango               | [Github](https://github.com/Vagarh) / [Linkedin](https://www.linkedin.com/in/juan-felipe-c-8a010b121/)      | Machine Learnin       |
+| Juan Arango               | [Github](https://github.com/Vagarh) / [Linkedin](https://www.linkedin.com/in/juan-felipe-c-8a010b121/)      | Machine Learning       |
 | Anderson Cusma            | [Github](https://github.com/anderson2093) / [Linkedin](https://www.linkedin.com/in/anderson-cusma-vasquez/)      | Team Leader         |
 
-### Enlace a presentación en Power BI
-
-[Enlace a Power Bi - ](https://app.powerbi.com/view?r=eyJrIjoiMmUzODUzYTQtMmUzMC00YWZlLTkwMjktZmE4OGY1NmMwYWIzIiwidCI6IjNiNjUzZDBiLWIzYjgtNGE0Yy05YzJlLTVkNDAzNjNkNWI0MSIsImMiOjR9)
+> [!IMPORTANT]
+> 
+> [![](https://img.shields.io/badge/build-presentación_en_power_bi-brightgreen?style=for-the-badge&label=enlace%20a&color=%23efa94a)](https://app.powerbi.com/view?r=eyJrIjoiMmUzODUzYTQtMmUzMC00YWZlLTkwMjktZmE4OGY1NmMwYWIzIiwidCI6IjNiNjUzZDBiLWIzYjgtNGE0Yy05YzJlLTVkNDAzNjNkNWI0MSIsImMiOjR9)
+>
 
 ### Definición del Problema de Negocio
 
